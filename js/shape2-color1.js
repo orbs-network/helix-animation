@@ -22,7 +22,7 @@ var tubeMaterial = new THREE.MeshLambertMaterial({color: 0xaaaaaa});
 // create the chain
 var chain = new THREE.Object3D();
 for (var i = 0; i < 30; i++) {
-  chain.add(createBlock(-0.5 * i, 12 * i));
+  chain.add(createBlock(-0.5 * i, 16 * i));
 }
 scene.add(chain);
 
