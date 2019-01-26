@@ -10,3 +10,7 @@ This is the origin of the name Helix, instead of a one dimentional chain of bloc
 ### View the experiments:
 
 https://orbs-network.github.io/helix-animation
+
+### Contributors
+
+Feel free to experiment, tweak the examples or create your own brand new ideas and add them to the preview list in index.html.
